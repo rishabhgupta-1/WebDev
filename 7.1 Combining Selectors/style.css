@@ -18,4 +18,5 @@ li.done {
 /*combining combine*/
 ul p.done {
     font-size: 0.5rem;
+    font-weight: bold;
 }
